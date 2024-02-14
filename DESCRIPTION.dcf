@@ -1,0 +1,23 @@
+Package: iGAP
+Type: Package
+Title: Matrix visualization for interval value based on GAP framework in R
+Version: 0.1.0
+Author: Shao-An Chen
+Maintainer: Shao-An Chen <zx228it@gmail.com>
+Description: We have developed a package named iGAP, integrating the GAP concept into R, enabling the arrangement and visualization of interval data for users to quickly and clearly understand the relationships and patterns within the data.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R (>= 3.3.0),
+  RSDA,
+  ggESDA,
+  ape,
+  ggdendro,
+  ggtree,
+  patchwork,
+  RColorBrewer,
+  seriation,
+  dataSDA
+RoxygenNote: 7.2.3
+
