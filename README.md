@@ -65,3 +65,7 @@ We can understand the information from the graph, allowing users to quickly and 
  4. Jiang and Wu, B.S., 2022. ggESDA: Exploratory Symbolic Data Analysis with ’ggplot2’.
  </p>
 
+ <p id="ref5">
+ 5. Wu, H. M., Tien, Y. J., & Chen, C. H. (2010). GAP: A graphical environment for matrix visualization and cluster analysis. Computational Statistics & Data Analysis, 54(3), 767-778.
+ </p>
+
