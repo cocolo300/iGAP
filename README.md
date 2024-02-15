@@ -58,14 +58,15 @@ We can understand the information from the graph, allowing users to quickly and 
  </p>
 
  <p id="ref3">
-3. Kao, C. H., Nakano, J., Shieh, S. H., Tien, Y. J., Wu, H. M., Yang, C. K., & Chen, C. H. (2014). Exploratory data analysis of interval-valued symbolic data with matrix visualization. Computational Statistics & Data Analysis, 79, 14-29.
-</p>
-
-<p id="ref4">
- 4. Jiang and Wu, B.S., 2022. ggESDA: Exploratory Symbolic Data Analysis with ’ggplot2’.
+ 3. Wu, H. M., Tien, Y. J., & Chen, C. H. (2010). GAP: A graphical environment for matrix visualization and cluster analysis. Computational Statistics & Data Analysis, 54(3), 767-778.
  </p>
 
- <p id="ref5">
- 5. Wu, H. M., Tien, Y. J., & Chen, C. H. (2010). GAP: A graphical environment for matrix visualization and cluster analysis. Computational Statistics & Data Analysis, 54(3), 767-778.
+ <p id="ref4">
+ 4. Kao, C. H., Nakano, J., Shieh, S. H., Tien, Y. J., Wu, H. M., Yang, C. K., & Chen, C. H. (2014). Exploratory data analysis of interval-valued symbolic data with matrix visualization. Computational Statistics & Data Analysis,  79, 14-29.
  </p>
+
+<p id="ref5">
+ 5. Jiang and Wu, B.S., 2022. ggESDA: Exploratory Symbolic Data Analysis with ’ggplot2’.
+ </p>
+
 
